@@ -1,0 +1,10 @@
+// Passo a passo para descobrir relação dos interruptores e lâmpadas
+
+1. Deve-se ligar o interruptor `A` e deixe ligado por alguns minutos.
+
+2. Depois precisa desligar o interruptor `A` e ligar o interruptor `B`.
+
+3. Nesse passo, deve ir até a sala das lâmpadas e verificar que:
+ - A lâmpada apagada e quente é do interruptor `A`.
+ - A lâmpada acesa é do interruptor `B`.
+ - A lâmpada apagada e fria é do interruptor `C`.
